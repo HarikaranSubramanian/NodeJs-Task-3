@@ -16,7 +16,7 @@ app.get("/", (req, res) => {
     .send(`<div style="text-align: center; background-color:#F2EFE5;  padding: 5px;"><h1>Student-Mentor Management</h1></div>
     <div>
     
-    <div><h2 style="text-align: left; background-color:grey;  padding: 2px; ">Student Endpoints in POSTMAN</h2></div>
+    <div><h2 style="text-align: left; background-color:#F2EFE5;  padding: 2px; ">Student Endpoints in POSTMAN</h2></div>
     
     <ul>
 
@@ -41,7 +41,7 @@ app.get("/", (req, res) => {
 
 <div>
 
-    <div><h2 style="text-align: left; background-color:grey;  padding: 2px; ">Mentor Endpoints in POSTMAN</h2></div>
+    <div><h2 style="text-align: left; background-color:#F2EFE5;  padding: 2px; ">Mentor Endpoints in POSTMAN</h2></div>
     <ul>
 
 
