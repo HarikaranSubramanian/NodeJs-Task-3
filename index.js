@@ -13,7 +13,7 @@ app.use(express.json());
 
 app.get("/", (req, res) => {
   res.status(200)
-    .send(`<div style="text-align: center; background-color:purple;  padding: 5px;"><h1>Student-Mentor Management System</h1></div>
+    .send(`<div style="text-align: center; background-color:#F2EFE5;  padding: 5px;"><h1>Student-Mentor Management</h1></div>
     <div>
     
     <div><h2 style="text-align: left; background-color:grey;  padding: 2px; ">Student Endpoints in POSTMAN</h2></div>
